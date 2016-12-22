@@ -1,6 +1,6 @@
 machine:
   hosts:
-    staging:159.203.97.17
+    staging: 159.203.97.17
   python:
     version: 2.7.11
 
