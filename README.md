@@ -1,1 +1,1 @@
-# Learning-Circle-CI-Integration
+# Learning-Circle-CI-Integration [![CircleCI](https://circleci.com/gh/thesurfermac/Learning-Circle-CI-Integration/tree/master.svg?style=svg)](https://circleci.com/gh/thesurfermac/Learning-Circle-CI-Integration/tree/master)
