@@ -8,6 +8,6 @@ dependencies:
   pre: 
     - pip install -r requirements.txt
 
-test:
-  pre:
-    - python app_test.py
+# test:
+#   pre:
+#     - python app_test.py
