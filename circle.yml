@@ -11,3 +11,9 @@ dependencies:
 test:
   pre:
     - python app_test.py
+
+deployment:
+  staging:
+    branch:master
+    commands:
+      -  touch /var/www/simpletest.txt
