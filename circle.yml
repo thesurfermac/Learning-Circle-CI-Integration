@@ -1,10 +1,12 @@
 machine:
+  timezone:
+    Asia/Kolkatta
   python:
-    version: python-2.7.*
+    version: 2.7.11
 
 dependencies:
-  pre:
-    -pip install -r requirements.txt
+  pre: 
+    - pip install -r requirements.txt
 
 test:
   pre:
