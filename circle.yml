@@ -16,4 +16,5 @@ deployment:
   staging:
     branch: master
     commands:
+      - ssh circleci@staging
       - touch /var/www/simpletest.txt
