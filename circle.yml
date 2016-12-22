@@ -1,6 +1,4 @@
 machine:
-  timezone:
-    Asia/Kolkatta
   python:
     version: 2.7.11
 
